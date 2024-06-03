@@ -1,6 +1,6 @@
 ![The P4 cpu](https://github.com/Pepe-57/p4-cpu/blob/main/p4.jpg)
-# P4
-P4 is a simple 4-bit single-cycle prosessor with 2-bit instruction set. Check the [user manual](https://github.com/Pepe-57/p4-cpu/blob/main/P4_user_manual_en.pdf) for more information
+# P4 CPU
+P4 is a simple 4-bit single-cycle prosessor with 2-bit instruction set. Check the [user manual](https://github.com/Pepe-57/p4-cpu/blob/main/P4_user_manual_en.pdf) for more information. 
 
 ## Registers
 The P4 contains two General-Purpose Registers (GPR) and two Special-Purpose Registers (SPR).
