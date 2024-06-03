@@ -8,7 +8,8 @@ The P4 contains two General-Purpose Registers (GPR) and two Special-Purpose Regi
 - REG A: A 4-bit register that is used for the ALU.
 - REG OR: A 4-bit register that is used for a result of an ALU operation.
 ### SPR
-
+- PC: 4-bit or 6-bit register that points the next instruction in memory.
+- IR: 6-bit register that is holds current instruction byte fetched from memory.
 ## Instruction set
 The P4 has 4 diffent instructions. Every instruction takes a single clock cycle to complete.
 - NOP    No operation
